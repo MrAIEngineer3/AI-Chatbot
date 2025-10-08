@@ -353,6 +353,6 @@ for idx, prompt in enumerate(quick_prompts):
 st.markdown("---")
 st.markdown("""
     <div style='text-align: center; color: white; padding: 20px;'>
-        <p style='font-size: 14px; opacity: 0.8;'>Built with ❤️ using Streamlit and Groq AI</p>
+        <p style='font-size: 14px; opacity: 0.8;'>Built by Ronit ❤️ using Streamlit and Groq AI</p>
     </div>
 """, unsafe_allow_html=True)
